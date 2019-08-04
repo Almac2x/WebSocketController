@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidSocketwithThreading</string>
+    <string name="Stop">Stop</string>
+    <string name="Start">Start</string>
+    <string name="SendMessage">Send Message</string>
+    <string name="Ip_Address">Ip Address</string>
+    <string name="Port">Port</string>
+    <string name="Connect">Connect</string>
+    <string name="Disconnect">Disconnect</string>
+
+</resources>
